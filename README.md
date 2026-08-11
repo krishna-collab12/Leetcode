@@ -39,8 +39,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/krishna-collab12/Leetcode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/krishna-collab12/Leetcode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/krishna-collab12/Leetcode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/krishna-collab12/Leetcode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/krishna-collab12/Leetcode/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/krishna-collab12/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/krishna-collab12/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
