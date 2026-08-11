@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/krishna-collab12/Leetcode/tree/master/0118-pascals-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/krishna-collab12/Leetcode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/krishna-collab12/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
