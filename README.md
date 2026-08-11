@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/krishna-collab12/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/krishna-collab12/Leetcode/tree/master/0054-spiral-matrix) |
 ## Math
 |  |
 | ------- |
@@ -15,4 +16,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/krishna-collab12/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/krishna-collab12/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/krishna-collab12/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
