@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/krishna-collab12/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0560-subarray-sum-equals-k](https://github.com/krishna-collab12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/krishna-collab12/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/krishna-collab12/Leetcode/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/krishna-collab12/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/krishna-collab12/Leetcode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
