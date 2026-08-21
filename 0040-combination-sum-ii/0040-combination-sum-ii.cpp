@@ -11,12 +11,16 @@ public:
         if(i == n){
             return ; 
         }
+        if(sum + nums[i] > target)
+        return;
         arr.push_back(nums[i]);
         combo(ans , arr , sum + nums[i], nums, i+1 , target , n );
         arr.pop_back();
         while( i<n-1 && nums[i] == nums[i+1]){
             i++ ; 
         }
+        if(sum + nums[i] > target)
+        return;
         combo(ans , arr , sum , nums , i+1 , target ,n);  
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
