@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void combo(string digits , int k , vector<string> &ans , vector<string> arr , string temp ,int n ){
+    void combo(string &digits , int k , vector<string> &ans , vector<string> &arr , string temp ,int n ){
         if(k == n){
             ans.push_back(temp);
             return ; 
