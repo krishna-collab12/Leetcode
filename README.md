@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/krishna-collab12/Leetcode/tree/master/0118-pascals-triangle) |
 | [0216-combination-sum-iii](https://github.com/krishna-collab12/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/krishna-collab12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/krishna-collab12/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/krishna-collab12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/krishna-collab12/Leetcode/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/krishna-collab12/Leetcode/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/krishna-collab12/Leetcode/tree/master/0037-sudoku-solver) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
