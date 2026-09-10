@@ -3,19 +3,9 @@ public:
     int divide(int dividend, int divisor) {
         long long a = dividend ;
         long long b = divisor ;
-        int flag = 1 ; 
-        if(a<0 && b<0){
-            a = -a ;
-            b = -b ;
-        }
-        else if(a<0 ){
-            a = -a ;
-            flag = -1 ; 
-        }
-        else if(b<0 ){
-            b = -b ;
-            flag = -1 ;
-        }
+        int flag = (a < 0) ^ (b < 0);
+        a = abs(a);
+        b = abs(b);
         long long ans =0 ; 
         long long x = b ;
         long long i = 1 ;
@@ -31,7 +21,7 @@ public:
                 ans = ans + i ;
             }
         }
-        if(flag == -1  ){
+        if(flag){
             ans = -ans ;
         }
         if (ans > INT_MAX)
