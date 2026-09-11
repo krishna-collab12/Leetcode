@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/krishna-collab12/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/krishna-collab12/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/krishna-collab12/Leetcode/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/krishna-collab12/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/krishna-collab12/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/krishna-collab12/Leetcode/tree/master/0118-pascals-triangle) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/krishna-collab12/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/krishna-collab12/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/krishna-collab12/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/krishna-collab12/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/krishna-collab12/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/krishna-collab12/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/krishna-collab12/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/krishna-collab12/Leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishna-collab12/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
