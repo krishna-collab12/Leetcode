@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/krishna-collab12/Leetcode/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/krishna-collab12/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/krishna-collab12/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/krishna-collab12/Leetcode/tree/master/0260-single-number-iii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/krishna-collab12/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/krishna-collab12/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/krishna-collab12/Leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/krishna-collab12/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/krishna-collab12/Leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/krishna-collab12/Leetcode/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/krishna-collab12/Leetcode/tree/master/1922-count-good-numbers) |
@@ -143,4 +145,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krishna-collab12/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krishna-collab12/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krishna-collab12/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krishna-collab12/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krishna-collab12/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
