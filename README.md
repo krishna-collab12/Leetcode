@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/krishna-collab12/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/krishna-collab12/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/krishna-collab12/Leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/krishna-collab12/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/krishna-collab12/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/krishna-collab12/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0090-subsets-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishna-collab12/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/krishna-collab12/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/krishna-collab12/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/krishna-collab12/Leetcode/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/krishna-collab12/Leetcode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/krishna-collab12/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/krishna-collab12/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/krishna-collab12/Leetcode/tree/master/0204-count-primes) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/krishna-collab12/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/krishna-collab12/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
