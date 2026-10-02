@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/krishna-collab12/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/krishna-collab12/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/krishna-collab12/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/krishna-collab12/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/krishna-collab12/Leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/krishna-collab12/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Linked List
 |  |
 | ------- |
