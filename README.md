@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/krishna-collab12/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/krishna-collab12/Leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/krishna-collab12/Leetcode/tree/master/0282-expression-add-operators) |
+| [0507-perfect-number](https://github.com/krishna-collab12/Leetcode/tree/master/0507-perfect-number) |
 | [1922-count-good-numbers](https://github.com/krishna-collab12/Leetcode/tree/master/1922-count-good-numbers) |
 ## Matrix
 |  |
