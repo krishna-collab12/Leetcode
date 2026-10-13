@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/krishna-collab12/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/krishna-collab12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/krishna-collab12/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/krishna-collab12/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna-collab12/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/krishna-collab12/Leetcode/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/krishna-collab12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/krishna-collab12/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0560-subarray-sum-equals-k](https://github.com/krishna-collab12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/krishna-collab12/Leetcode/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/krishna-collab12/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
