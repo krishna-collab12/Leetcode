@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/krishna-collab12/Leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/krishna-collab12/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/krishna-collab12/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/krishna-collab12/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Linked List
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna-collab12/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/krishna-collab12/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/krishna-collab12/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/krishna-collab12/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/krishna-collab12/Leetcode/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/krishna-collab12/Leetcode/tree/master/0344-reverse-string) |
 ## Recursion
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/krishna-collab12/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/krishna-collab12/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/krishna-collab12/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/krishna-collab12/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/krishna-collab12/Leetcode/tree/master/0282-expression-add-operators) |
 ## Bracket Sequences
