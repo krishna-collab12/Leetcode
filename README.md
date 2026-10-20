@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishna-collab12/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/krishna-collab12/Leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/krishna-collab12/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/krishna-collab12/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/krishna-collab12/Leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/krishna-collab12/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/krishna-collab12/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/krishna-collab12/Leetcode/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/krishna-collab12/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
