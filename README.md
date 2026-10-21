@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/krishna-collab12/Leetcode/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/krishna-collab12/Leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/krishna-collab12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0860-lemonade-change](https://github.com/krishna-collab12/Leetcode/tree/master/0860-lemonade-change) |
 ## Math
 |  |
 | ------- |
@@ -217,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/krishna-collab12/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/krishna-collab12/Leetcode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
